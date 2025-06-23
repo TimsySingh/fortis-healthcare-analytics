@@ -45,8 +45,9 @@ To identify and analyze operational inefficiencies in hospital services using ke
 | File | Description |
 |------|-------------|
 | `Fortis General Hospital.pptx` | Full slide presentation with analysis, charts, and KPIs |
-| `fortis-healthcare-project.pdf` | Print-ready version (optional) |
-| `data.xlsx` | Raw or cleaned synthetic data (if available) |
+| `Fortis General Hospital.pdf` | Print-ready version|
+| `Fortis_Kpi_analysis.xlsx` | Raw or cleaned synthetic data |
+|'fortis general hospital.pbix'| Dashboard and Visualisation |
 
 ---
 
