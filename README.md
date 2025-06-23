@@ -1,4 +1,4 @@
-![Dashboard](https://github.com/user-attachments/assets/a8aaee3d-899e-471f-8210-14eda345785c)# 🏥 Fortis Healthcare Analytics (Capstone Simulation)
+# 🏥 Fortis Healthcare Analytics (Capstone Simulation)
 
 **Author:** Timsy Singh  
 **Tools:** Power BI | Excel | Regression | Dashboarding
@@ -45,16 +45,17 @@ To identify and analyze operational inefficiencies in hospital services using ke
 | File | Description |
 |------|-------------|
 | `Fortis General Hospital.pptx` | Full slide presentation with analysis, charts, and KPIs |
-| `Fortis General Hospital.pdf` | Print-ready version|
-| `Fortis_Kpi_analysis.xlsx` | Raw or cleaned synthetic data |
-|'fortis general hospital.pbix'| Dashboard and Visualisation |
+| `Fortis General Hospital.pdf` | Print-ready version |
+| `Fortis_Kpi_analysis.xlsx` | Raw KPI data + regression & correlation analysis |
+| `Fortis General Hospital.pbix` | Interactive Power BI dashboard and visualizations |
+
 
 ## 📸 Sample Dashboard Previews
 
 Here are snapshots of the Power BI dashboard included in the `.pbix` file:
 
 ### 🎯 KPI Overview
-![KPI Dashboard](Dashboard.jpg)
+![KPI Dashboard](https://github.com/user-attachments/assets/a8aaee3d-899e-471f-8210-14eda345785c)
 
 ---
 
